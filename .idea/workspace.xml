@@ -2,648 +2,323 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0125063-ee94-4ec1-a4f2-e30e84cab492" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Commons" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default-568h@2x~iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default-667h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default-736h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default-Landscape-736h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default-Landscape@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default-Landscape~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default-Portrait@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default-Portrait~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default@2x~iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/splash/Default~iphone.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaLumberjack/Pods-MeeletFlow-CocoaLumberjack.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-JSONKit/Pods-MeeletFlow-JSONKit.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-40@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-50.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-50@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-60.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-60@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-60@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-72@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-76.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-76@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon-small@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Resources/icons/icon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/res/zbar-back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/res/zbar-helpicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/res/zbar-samples.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow.xcodeproj/xcuserdata/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow.xcworkspace/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Classes/AppDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Classes/AppDelegate.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/RunLoop/AsyncSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaAsyncSocket/AsyncSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaAsyncSocket/AsyncSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/RunLoop/AsyncSocket.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/RunLoop/AsyncUdpSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaAsyncSocket/AsyncUdpSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaAsyncSocket/AsyncUdpSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/RunLoop/AsyncUdpSocket.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDV.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVAvailability.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVAvailabilityDeprecated.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVCommandDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVCommandDelegateImpl.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVCommandQueue.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVCommandQueue.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVConfigParser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVConfigParser.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVDebug.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVHandleOpenURL.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVHandleOpenURL.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVInvokedUrlCommand.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVJSON.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVJSON.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVJSON_private.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVJSON_private.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVLocalStorage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVLocalStorage.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVPlugin.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVPlugin.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVPluginResult.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVPluginResult.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVScreenOrientationDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVShared.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVTimer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVTimer.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVURLProtocol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVURLProtocol.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVUserAgentUtil.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVWebViewDelegate.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVWhitelist.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/CDVWhitelist.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-camera/www/Camera.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-camera/www/CameraConstants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-camera/www/ios/CameraPopoverHandle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/CocoaLumberjack.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/CocoaLumberjack.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/CocoaLumberjack.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/CocoaLumberjack.swift" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/CordovaLib.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib_Prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Extensions/WebDAV/DAVConnection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/DAVConnection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/DAVConnection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Extensions/WebDAV/DAVConnection.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Extensions/WebDAV/DAVResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/DAVResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/DAVResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Extensions/WebDAV/DAVResponse.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDASLLogCapture.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogCapture.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDASLLogCapture.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDASLLogCapture.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDASLLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDASLLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDASLLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDASLLogger.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDAbstractDatabaseLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDAbstractDatabaseLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDAbstractDatabaseLogger.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDAssertMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDAssertMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDAssertMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDContextFilterLogFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDContextFilterLogFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/Extensions/DDContextFilterLogFormatter.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Categories/DDData.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/DDData.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/DDData.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Categories/DDData.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDDispatchQueueLogFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDDispatchQueueLogFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/Extensions/DDDispatchQueueLogFormatter.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDFileLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDFileLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDFileLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDFileLogger.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDLegacyMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDLegacyMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDLog+LOGV.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDLog+LOGV.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDLog+LOGV.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDLog.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDLog.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDLog.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDLog.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDLogMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDLogMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDLogMacros.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDMultiFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDMultiFormatter.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/Extensions/DDMultiFormatter.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Categories/DDNumber.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/DDNumber.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/DDNumber.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Categories/DDNumber.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Categories/DDRange.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/DDRange.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/DDRange.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Categories/DDRange.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDTTYLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaLumberjack/DDTTYLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaLumberjack/DDTTYLogger.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/Classes/DDTTYLogger.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Extensions/WebDAV/DELETEResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/DELETEResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/DELETEResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Extensions/WebDAV/DELETEResponse.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Framework.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/GCD/GCDAsyncSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaAsyncSocket/GCDAsyncSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaAsyncSocket/GCDAsyncSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/GCD/GCDAsyncSocket.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/GCD/GCDAsyncUdpSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaAsyncSocket/GCDAsyncUdpSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaAsyncSocket/GCDAsyncUdpSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/GCD/GCDAsyncUdpSocket.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Global.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Global.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPAsyncFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPAsyncFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPAsyncFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPAsyncFileResponse.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPAuthenticationRequest.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPAuthenticationRequest.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPAuthenticationRequest.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPAuthenticationRequest.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPConnection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPConnection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPConnection.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPConnection.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPDataResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPDataResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPDataResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPDataResponse.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPDynamicFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPDynamicFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPDynamicFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPDynamicFileResponse.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPFileResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPFileResponse.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPLogging.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPLogging.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPLogging.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPMessage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPMessage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPMessage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPMessage.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPRedirectResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPRedirectResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPRedirectResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Responses/HTTPRedirectResponse.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPServer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/HTTPServer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/HTTPServer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/HTTPServer.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/JSONKit/JSONKit.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/JSONKit/JSONKit.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/JSONKit/JSONKit.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/JSONKit/JSONKit.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Reachability/LICENCE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/node_modules/wrappy/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inherits/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/node_modules/wrappy/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/node_modules/abbrev/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/shelljs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Classes/MainViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Classes/MainViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Classes/MainViewController.xib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Manifest.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/MeeletFlow-Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/MeeletFlow-Prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/MeeletFlow.entitlements" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow.xcworkspace/xcshareddata/MeeletFlow.xccheckout" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Mime/MultipartFormDataParser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/MultipartFormDataParser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/MultipartFormDataParser.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Mime/MultipartFormDataParser.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Mime/MultipartMessageHeader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/MultipartMessageHeader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/MultipartMessageHeader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Mime/MultipartMessageHeader.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Mime/MultipartMessageHeaderField.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/MultipartMessageHeaderField.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/MultipartMessageHeaderField.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/Mime/MultipartMessageHeaderField.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/NSArray+Comparisons.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/NSData+Base64.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/NSData+Base64.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/NSDictionary+Extensions.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/NSMutableArray+QueueAdditions.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/NativeBridge.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/NativeBridge.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/NetworkEngine.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/NetworkEngine.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Extensions/WebDAV/PUTResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/PUTResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/PUTResponse.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Extensions/WebDAV/PUTResponse.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Podfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Podfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaAsyncSocket/Pods-MeeletFlow-CocoaAsyncSocket-Private.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaAsyncSocket/Pods-MeeletFlow-CocoaAsyncSocket-dummy.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaAsyncSocket/Pods-MeeletFlow-CocoaAsyncSocket-prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaAsyncSocket/Pods-MeeletFlow-CocoaAsyncSocket.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/Pods-MeeletFlow-CocoaAsyncSocket.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaHTTPServer/Pods-MeeletFlow-CocoaHTTPServer-Private.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaHTTPServer/Pods-MeeletFlow-CocoaHTTPServer-dummy.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaHTTPServer/Pods-MeeletFlow-CocoaHTTPServer-prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaHTTPServer/Pods-MeeletFlow-CocoaHTTPServer.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/Pods-MeeletFlow-CocoaHTTPServer.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaLumberjack/Pods-MeeletFlow-CocoaLumberjack-Private.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaLumberjack/Pods-MeeletFlow-CocoaLumberjack-dummy.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-CocoaLumberjack/Pods-MeeletFlow-CocoaLumberjack-prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/Pods-MeeletFlow-CocoaLumberjack.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-JSONKit/Pods-MeeletFlow-JSONKit-Private.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-JSONKit/Pods-MeeletFlow-JSONKit-dummy.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-JSONKit/Pods-MeeletFlow-JSONKit-prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/Pods-MeeletFlow-JSONKit.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-Reachability/Pods-MeeletFlow-Reachability-Private.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-Reachability/Pods-MeeletFlow-Reachability-dummy.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-Reachability/Pods-MeeletFlow-Reachability-prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-Reachability/Pods-MeeletFlow-Reachability.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/Pods-MeeletFlow-Reachability.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-SSZipArchive/Pods-MeeletFlow-SSZipArchive-Private.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-SSZipArchive/Pods-MeeletFlow-SSZipArchive-dummy.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-SSZipArchive/Pods-MeeletFlow-SSZipArchive-prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-SSZipArchive/Pods-MeeletFlow-SSZipArchive.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/Pods-MeeletFlow-SSZipArchive.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-ZBarSDK/Pods-MeeletFlow-ZBarSDK-Private.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-ZBarSDK/Pods-MeeletFlow-ZBarSDK-dummy.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-ZBarSDK/Pods-MeeletFlow-ZBarSDK-prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow-ZBarSDK/Pods-MeeletFlow-ZBarSDK.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/Pods-MeeletFlow-ZBarSDK.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow/Pods-MeeletFlow-acknowledgements.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow/Pods-MeeletFlow-acknowledgements.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow/Pods-MeeletFlow-dummy.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow/Pods-MeeletFlow-environment.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow/Pods-MeeletFlow-resources.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow/Pods-MeeletFlow.debug.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods-MeeletFlow.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Target Support Files/Pods-MeeletFlow/Pods-MeeletFlow.release.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/Pods-MeeletFlow.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/ProjectViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/ProjectViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/QRCodeOutlineBox.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/QRCodeOutlineBox.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/QRCodeViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/QRCodeViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/QRCodeViewController.xib" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaAsyncSocket/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/README.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaLumberjack/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/JSONKit/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Reachability/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/node_modules/wrappy/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inherits/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/node_modules/wrappy/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/README.windows" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/Plugins/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/Reachability/Reachability.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/Reachability/Reachability.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Reachability/Reachability.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Reachability/Reachability.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/Readme.markdown" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/SSZipArchive/SSZipArchive.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/SSZipArchive/SSZipArchive.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/SSZipArchive.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/SSZipArchive.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/Classes/UIDevice+Extensions.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/WebSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/CocoaHTTPServer/WebSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/CocoaHTTPServer/WebSocket.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/CocoaHTTPServer/Core/WebSocket.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarCVImage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarCVImage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarCVImage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarCVImage.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarCameraSimulator.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarCameraSimulator.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarCameraSimulator.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarCameraSimulator.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarCaptureReader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarCaptureReader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarCaptureReader.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarCaptureReader.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarHelpController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarHelpController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarHelpController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarHelpController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarImage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarImage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarImage.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarImage.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarImageScanner.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarImageScanner.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarImageScanner.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarImageScanner.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarReaderController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarReaderController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarReaderController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarReaderController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarReaderView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarReaderView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarReaderView.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarReaderView.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarReaderViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarReaderViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarReaderViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarReaderViewController.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarReaderViewImpl_Capture.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarReaderViewImpl_Simulator.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarSDK.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarSDK.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarSDK.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ZBarSymbol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/ZBarSymbol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/ZBarSDK/ZBarSymbol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/ZBarSymbol.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/node_modules/abbrev/abbrev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_ios_version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_osx_version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/apple_xcode_version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-comparison.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/bash-results.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/node_modules/wrappy/test/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/node_modules/wrappy/test/basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/bch15_5.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/bch15_5.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/bch15_5.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/binarize.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/binarize.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/binarize.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-debug.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-extras.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build-release.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build.xcconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/build" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/cases.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/check_reqs.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/check_reqs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/check_reqs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/clean.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/clean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/clean" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/codabar.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/codabar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/codabar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/code128.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/code128.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/code128.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/code39.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/code39.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/code39.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/code93.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/code93.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/code93.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/config.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/config.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/config.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/config.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow.xcworkspace/contents.xcworkspacedata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/copy-www-build-step.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova_plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/SSZipArchive/crypt.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/SSZipArchive/crypt.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/crypt.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/databar.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/databar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/databar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/debug.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/debug.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/debug.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/debug.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/decoder.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/defaults.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/dollar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/ean.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/ean.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/ean.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/empty-option.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/error.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/error.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/error.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/event.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/event.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova-js-src/exec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova-js-src/exec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/generate.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/glob.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/i25.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/i25.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/i25.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/image.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/image.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/image.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/img_scanner.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/img_scanner.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/img_scanner.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/path-is-absolute/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/inflight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inherits/inherits.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inherits/inherits_browser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/ioapi.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/SSZipArchive/ioapi.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/SSZipArchive/ioapi.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/ioapi.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/isaac.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/isaac.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/isaac.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-devices" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-emulator-images" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/list-started-emulators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow/main.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/example/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/test/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/minimatch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/mutex.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/mutex.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/mztools.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/SSZipArchive/mztools.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/SSZipArchive/mztools.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/mztools.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/negative-increment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/nested.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/lib/nopt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/once.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/test/once.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/node_modules/wrappy/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inherits/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/node_modules/wrappy/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/path-is-absolute/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/nopt/node_modules/abbrev/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/shelljs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/pad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/pdf417.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/pdf417.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/pdf417_hash.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/pdf417_hash.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/platform_www/cordova-js-src/platform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/www/cordova-js-src/platform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/platforms.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/posix.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/processor/posix.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/include/prefix.pch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/processor.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/processor.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/MeeletFlow.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/q.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/qr_finder.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/qr_finder.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/decoder/qr_finder.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/qrcode.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/qrdec.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/qrdec.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/qrdec.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/qrdectxt.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/q/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/path-is-absolute/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/refcnt.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/refcnt.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/refcnt.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/rs.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/rs.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/rs.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/run.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/run.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/run" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/same-type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/scanner.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/test/sequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/shelljs/shell.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/spawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/start-emulator" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/svg.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/svg.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/symbol.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/symbol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/symbol.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inherits/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/thread.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/thread.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/timer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/timer.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/unzip.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/SSZipArchive/unzip.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/SSZipArchive/unzip.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/unzip.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/util.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/util.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/qrcode/util.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/version.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/lib/versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/video.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/video.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/win.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/window/win.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/window.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/window.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/inflight/node_modules/wrappy/wrappy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/cordova/node_modules/glob/node_modules/once/node_modules/wrappy/wrappy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/x.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/zbar/window/x.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/CordovaLib/CordovaLib.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Pods.xcodeproj/xcuserdata/jill.xcuserdatad/xcschemes/xcschememanagement.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/iphone/res/zbar-help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/ZBarSDK/zbar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/ZBarSDK/zbar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/ZBarSDK/include/zbar.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/zip.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Private/SSZipArchive/zip.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/Headers/Public/SSZipArchive/zip.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/ios/Pods/SSZipArchive/SSZipArchive/minizip/zip.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/android-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/android-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ubuntu/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/blackberry-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/blackberry-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/bootstrap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/browser-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/browser-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/compass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/firefox-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/firefox-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/fireos-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/fireos-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/fonts/bootstrap/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/fonts/bootstrap/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/ios-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/ios-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ubuntu/shoot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ubuntu/toolbar-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ubuntu/toolbar-middle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ubuntu/toolbar-right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/ubuntu-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/ubuntu-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/windows-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/windows-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/wp8-fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/img/wp8-success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ios/CDVCamera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ios/CDVCamera.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest/CDVCameraTest.xcodeproj/xcshareddata/xcschemes/CDVCameraLib.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest/CDVCameraTest.xcodeproj/xcshareddata/xcschemes/CDVCameraLibTests.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest.xcworkspace/xcshareddata/CDVCameraTest.xccheckout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest/CDVCameraTest.xcodeproj/project.xcworkspace/xcshareddata/CDVCameraTest.xccheckout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ios/CDVExif.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ios/CDVJpegHeaderWriter.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ios/CDVJpegHeaderWriter.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/ios/CDVNavigationWhitelistPlugin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/ios/CDVNavigationWhitelistPlugin.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/wp/Camera.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/www/Camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/www/CameraConstants.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/android/CameraLauncher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/www/CameraPopoverHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/www/ios/CameraPopoverHandle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/browser/CameraProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/firefoxos/CameraProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/windows/CameraProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest/CDVCameraLibTests/CameraTest.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ubuntu/CaptureWidget.qml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest.xcworkspace/xcshareddata/xcschemes/CordovaLib.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/android/ExifHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/android/FileHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest/CDVCameraLibTests/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/de/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/es/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/fr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/it/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/ja/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/ko/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/pl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/zh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/doc/de/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/doc/es/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/doc/fr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/doc/it/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/doc/ja/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/doc/ko/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/doc/pl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/doc/zh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ios/UIImage+CropScaleOrientation.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ios/UIImage+CropScaleOrientation.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/src/android/WhitelistPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_alerts.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/animation/_app_animation.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/f9d5a8a0dced892ff4b7675c2973e4126718a19b/_app_animation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/animation/_app_animation_keyframes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/f9d5a8a0dced892ff4b7675c2973e4126718a19b/_app_animation_keyframes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_appearance.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_background-clip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_background-origin.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_background-size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_background-variant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_background-variant.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_badges.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_badges.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/animation/_base.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/f9d5a8a0dced892ff4b7675c2973e4126718a19b/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/_bootstrap-compass.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/_bootstrap-compass.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/_bootstrap-sprockets.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/_bootstrap-variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/_bootstrap-variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_border-radius.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_box-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_box-sizing.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_button-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_button-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_buttons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_carousel.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_center-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_center-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_clearfix.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_close.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_close.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_code.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_code.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_columns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/_compass.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_component-animations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_component-animations.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/89ed836c88c76960226409a1fd67bc01b3e6b262/_css3.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_dropdowns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_dropdowns.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_flexbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_font-face.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/_global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_glyphicons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_glyphicons.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_gradients.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_grid-framework.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_grid-framework.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/46e097b32122e8ce9adb7660aacdae17f44b178d/_hacks.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_hide-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_hyphenation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_image.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_images.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_inline-block.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_input-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_input-groups.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_jumbotron.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_jumbotron.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_labels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_list-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_media.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/_mobile-topbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/animation/_modal-window.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/_modal-window.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/f9d5a8a0dced892ff4b7675c2973e4126718a19b/_modal-window.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_modals.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_modals.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_nav-divider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_nav-divider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_nav-vertical-align.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_nav-vertical-align.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_navbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_navs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_navs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_normalize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_normalize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_opacity.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_pager.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_pager.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_panels.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_popovers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_popovers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_progress-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_progress-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_progress-bars.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_regions.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_reset-filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_reset-filter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_resize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_resize.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_responsive-embed.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_responsive-embed.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_responsive-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_responsive-utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_responsive-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_responsive-visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_scaffolding.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/89ed836c88c76960226409a1fd67bc01b3e6b262/_support.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_tab-focus.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_tab-focus.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_table-row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_table-row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_tables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_text-emphasis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_text-emphasis.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_text-overflow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_text-overflow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_text-shadow.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_thumbnails.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_thumbnails.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_tooltip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_tooltip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_transform.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_transition.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_type.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/323b1efe46d9f1535f997b3c75aa82d5d05ab476/_user-interface.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_utilities.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_variables.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/1863786f73e3efe12f058e72c8d315b5bb1ea70e/_vendor-prefixes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/32c7724bac11581a8716be2672e41d942f272ddd/_vendor-prefixes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/4965d548f7d00f11f38c1a8dd82f55bfecf09e36/_wells.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/_wells.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/bootstrap/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/bootstrap/bootstrap/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/38b6ad06a138dbd01dac4265df809cd2d850b87d/bootstrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/bootstrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/bb954fd6637a9055d6c14475e7a68825a8d793d6/bootstrap.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/device/bootstrap_desktop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/device/bootstrap_desktop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/d94075e31eae6de318e5920dccf36cb25f044484/bootstrap_desktop.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/device/bootstrap_phone.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/device/bootstrap_phone.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/d94075e31eae6de318e5920dccf36cb25f044484/bootstrap_phone.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/device/bootstrap_tablet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/device/bootstrap_tablet.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/d94075e31eae6de318e5920dccf36cb25f044484/bootstrap_tablet.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/device/bootstrap_wide_desktop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/device/bootstrap_wide_desktop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/d94075e31eae6de318e5920dccf36cb25f044484/bootstrap_wide_desktop.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ubuntu/camera.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/ubuntu/camera.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/www/blackberry10/assets/camera.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/www/blackberry10/assets/camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest/CDVCameraTest.xcodeproj/project.xcworkspace/contents.xcworkspacedata" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/fonts/bootstrap/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/index.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/ios.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/preload.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/CDVCameraTest/CDVCameraTest.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/stylesheets/sass/.sass-cache/86a0a3ddfb5e89b2479b697e63eb30a8becc77fa/project.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/whitelist.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="meeletFlow.iws" />
@@ -759,47 +434,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="platforms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meeletFlow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meeletFlow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platforms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meeletFlow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meeletFlow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="platforms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ios" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
+              <option name="myItemId" value="plugins" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -900,12 +535,20 @@
       <option name="number" value="Default" />
       <updated>1440136442263</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init Commit.">
+      <created>1440146433805</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1440146433805</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32796487" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -928,6 +571,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Commit." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -937,6 +584,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48951048">
           <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -952,6 +600,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7902098">
           <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -959,6 +608,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.75524473">
           <caret line="76" column="3" selection-start-line="76" selection-start-column="3" selection-end-line="76" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -966,6 +616,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.74825174">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -973,6 +624,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09090909">
           <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -980,6 +632,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7202797">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
