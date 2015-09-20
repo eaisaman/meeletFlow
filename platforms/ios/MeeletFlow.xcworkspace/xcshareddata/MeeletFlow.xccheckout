@@ -12,6 +12,8 @@
 	<dict>
 		<key>612E0BC7EE9B913883DDE23815D2450EA3E0E846</key>
 		<string>https://github.com/eaisaman/meeletFlow.git</string>
+		<key>6BA5312969E0B0DFEAA7F4554C082CC199676452</key>
+		<string>https://github.com/eaisaman/meeletBook.git</string>
 		<key>A9FE791E3509432577DF49F8EE55D8F412AE7ED7</key>
 		<string>https://github.com/eaisaman/meeletClient.git</string>
 	</dict>
@@ -21,6 +23,8 @@
 	<dict>
 		<key>612E0BC7EE9B913883DDE23815D2450EA3E0E846</key>
 		<string>../../..</string>
+		<key>6BA5312969E0B0DFEAA7F4554C082CC199676452</key>
+		<string>../../../../meeletBook</string>
 		<key>A9FE791E3509432577DF49F8EE55D8F412AE7ED7</key>
 		<string>../../../../meeletClient</string>
 	</dict>
@@ -32,6 +36,14 @@
 	<string>612E0BC7EE9B913883DDE23815D2450EA3E0E846</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6BA5312969E0B0DFEAA7F4554C082CC199676452</string>
+			<key>IDESourceControlWCCName</key>
+			<string>meeletBook</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
